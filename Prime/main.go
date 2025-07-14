@@ -15,6 +15,7 @@ func isPrime(n int) bool {
 	return true
 }
 
+// Checks if a given number is prime and prints the result to the console.
 func main() {
 	var num int
 

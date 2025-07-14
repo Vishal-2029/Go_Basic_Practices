@@ -14,6 +14,7 @@ func isPalindrome(s string) bool {
 	return true
 }
 
+// Checks if the input string is a palindrome and prints the result.
 func main() {
 	var input string
 	fmt.Printf("Enter a string to check if it's a palindrome: ")

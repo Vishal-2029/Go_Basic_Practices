@@ -14,6 +14,7 @@ func Fibonacci(n int) int {
 	return a
 }
 
+// Prints the Fibonacci series up to the nth term, where n is provided by the user.
 func main() {
 	var n int
 	fmt.Print("Enter the number of terms: ")

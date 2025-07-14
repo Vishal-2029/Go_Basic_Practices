@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Determines the sign of a user-provided integer and prints the result.
 func main() {
 
 	var num int

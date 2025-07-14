@@ -5,6 +5,7 @@ import (
 	
 )
 
+// Calculates the sum of all elements in a given slice of integers.
 func main() {
 	slices := []int{1, 2, 3, 4, 5}
 	sum := 0

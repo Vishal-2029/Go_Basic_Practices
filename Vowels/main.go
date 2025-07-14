@@ -19,6 +19,8 @@ func CountVowels(s string) int {
 }
 
 
+
+// Counts the number of vowels in a given string.
 func main() {
 	var str string
 

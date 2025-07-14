@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Reverses a user-input string and prints the result.
 func main() {
 	// str := "Hello, World!"
 

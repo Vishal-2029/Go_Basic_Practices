@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Compares two user-input integers and prints the larger of the two.
 func main() {
 	var a, b int
 

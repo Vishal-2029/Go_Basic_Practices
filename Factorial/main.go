@@ -12,6 +12,7 @@ func isfactorial(n int) int {
 	return fac
 }
 
+// Calculates the factorial of a given number using a recursive function.
 func main() {
 	var num int
 
